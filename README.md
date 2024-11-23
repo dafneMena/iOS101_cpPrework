@@ -43,7 +43,7 @@ A budgeting app that helps users track their spending and set budgets. Instead o
 
 ## Notes
 
-Some challenges I fac
+A challenge I faced was adding the image. I noticed it wasn't a matter of simply drag and dropping the image onto the screen. However, I then found you could add the image as an asset and add it to the view controller to hide/unhide the image when necessary.
 
 ## License
 
